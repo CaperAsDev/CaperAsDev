@@ -6,6 +6,7 @@
   - React(in progress)
 - 📫 How to reach me: caperactus@gmail.com and you  can also sen me a direct message on my social network as Caperactus.
 - Some of my projects:
+  - <a href="https://caperactus.github.io/todo-appV2/" target="_blank">Task Manager</a> **August 2023**
   - [Task Manager](https://caperactus.github.io/todo-appV2/) {:target="_blank"} (August 2023)
   - [Movies](https://caperactus.github.io/my-movie-list-tmdb-api/) {:target="_blank"} (May 2023)
   - [Game](https://caperactus.github.io/JS-Taller-Videogames/) {:target="_blank"} (March 2023)
