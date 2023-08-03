@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Caperactus
 - 👀 I’m interested in web development, Industrial Design and art.
-- 🌱 I’m constantly learning about web development in a online platform called @Platzi, I have knoledge of:
+- 🌱 I’m constantly learning about web development in an online platform called @Platzi.
   - Javascript / Typescript
   - Html & Css
   - React(in progress)
-- 📫 How to reach me: caperactus@gmail.com and you  can also sen me a direct message on my social network as Caperactus.
-- Some of my projects:
+- Mail me to **caperactus@gmail.com** or send me a message on my social network as Caperactus.
+- Some of my latest projects:
   - <p><a href="https://caperactus.github.io/todo-appV2/" target="_blank" >My Life Manager</a> August 2023</p>
   - <p><a href="https://caperactus.github.io/my-movie-list-tmdb-api/" target="_blank" >My Movie List</a> May 2023</p>
   - <p><a href="https://caperactus.github.io/JS-Taller-Videogames/" target="_blank" >Game</a> March 2023</p>
