@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Caperactus
 - 👀 I’m interested in web development, Industrial Design and art.
 - 🌱 I’m constantly learning about web development in an online platform called @Platzi.
-  - Javascript / Typescript
-  - Html & Css
-  - React(in progress)
+  - JavaScript / TypeScript
+  - HTML & CSS
+  - ReactJs
+  - Sass / Tailwind
 - Mail me to **caperactus@gmail.com** or send me a message on my social network as Caperactus.
 - Some of my latest projects:
   - <p><a href="https://caperasdev.github.io/todo-appV2/" target="_blank" >My Life Manager</a> August 2023</p>
