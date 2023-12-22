@@ -7,7 +7,7 @@
   - Sass / Tailwind
 - Mail me to **caperactus@gmail.com** or send me a message on my social network as Caperactus.
 - Some of my latest projects:
-  - <p><a href='https://s12-02-m-node-react-nine.vercel.app/' target='_blank'>EventWave</a>December 2023</p>
+  - <p><a href='https://s12-02-m-node-react-nine.vercel.app/' target='_blank'>EventWave</a><a hred='https://github.com/No-Country/s12-02-m-node-react' >Project Repository</a>December 2023</p>
   - <p><a href="https://caperasdev.github.io/todo-appV2/" target="_blank" >My Life Manager</a> August 2023</p>
   - <p><a href="https://caperasdev.github.io/my-movie-list-tmdb-api/" target="_blank" >My Movie List</a> May 2023</p>
   - <p><a href="https://caperasdev.github.io/JS-Taller-Videogames/" target="_blank" >Game</a> March 2023</p>
