@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Caperactus
-- 👀 I’m interested in web development, Industrial Design and art.
-- 🌱 I’m constantly learning about web development in an online platform called @Platzi.
+- 👋 Hi, I’m @[Caperactus](https://caperasdev.com/)
+- 👀 I’m Web developer.
+- 🌱 I have been learning since 2022. Some of the technologies I have work with:
   - JavaScript / TypeScript
   - HTML & CSS
-  - ReactJs
+  - ReactJs \ Astro
   - Sass / Tailwind
-- Mail me to **caperactus@gmail.com** or send me a message on my social network as Caperactus.
+  - Node / Express
+  - Sequelize / PostgreSQL / GraphQL
+- Mail me to **caper.asdev@gmail.com** or send me a message on my social network as Caperactus.
 - Some of my latest projects:
   - <p><a href='https://s12-02-m-node-react-nine.vercel.app/' target='_blank'> EventWave</a>December 2023__ <a href='https://github.com/No-Country/s12-02-m-node-react' target='_blank' >Project Repository</a></p>
   - <p><a href="https://caperasdev.github.io/todo-appV2/" target="_blank" >My Life Manager</a> August 2023</p>
